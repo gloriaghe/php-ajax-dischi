@@ -12,6 +12,19 @@
 
 }
 
+header {
+    background-color: #2e3a46;
+    height: 55px;
+    display: flex;
+    align-items: center;
+}
+
+#iconaSpotify {
+    color: #1ed55e;
+    font-size: 40px;
+    margin-left: 10px;
+} 
+
 #discContainer {
     display: flex;
     flex-wrap: wrap;
@@ -53,15 +66,3 @@ span {
     font-size: 19px;
 }
 
-/* header {
-    background-color: #2e3a46;
-    height: 55px;
-    display: flex;
-    align-items: center;
-}
-
-#iconaSpotify {
-    color: #1ed55e;
-    font-size: 40px;
-    margin-left: 10px;
-} */
